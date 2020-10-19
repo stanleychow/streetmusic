@@ -13,3 +13,9 @@ body{
 head{
     font-family: 'Tahoma';
 }
+
+html{
+    min-height: 100%;
+    background-image: url('/Users/stanleychow/Downloads/the-new-york-public-library-VTy7q4wabHc-unsplash.jpg');
+    background-size: cover;
+}
